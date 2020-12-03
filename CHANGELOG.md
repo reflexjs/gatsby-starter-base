@@ -3,6 +3,53 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.6.1](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.6.0...gatsby-starter-base@0.6.1) (2020-12-03)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+# [0.6.0](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.5.2...gatsby-starter-base@0.6.0) (2020-11-10)
+
+
+### Features
+
+* **www-next:** add www-next site ([8a230e7](https://github.com/reflexjs/reflex/commit/8a230e7e43d1bb6a25c7332501547ee0f9eea080))
+
+
+
+
+
+## [0.5.2](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.5.1...gatsby-starter-base@0.5.2) (2020-09-21)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+## [0.5.1](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.5.0...gatsby-starter-base@0.5.1) (2020-09-18)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+# [0.5.0](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.4.4...gatsby-starter-base@0.5.0) (2020-09-15)
+
+
+### Features
+
+* add a theme.js file to the base starter ([ccf2fa5](https://github.com/reflexjs/reflex/commit/ccf2fa56466b804e4024d94aa62aeff611633020))
+* **gatsby-starter-base:** add gatsby-theme-post ([ddb64db](https://github.com/reflexjs/reflex/commit/ddb64dbcf79ba10e061a6d980d1f3b717168bf41))
+
+
+
+
+
 ## [0.4.4](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.4.3...gatsby-starter-base@0.4.4) (2020-09-09)
 
 **Note:** Version bump only for package gatsby-starter-base
