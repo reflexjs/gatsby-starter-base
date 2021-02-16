@@ -1,3 +1,5 @@
+# Starting a new Reflexjs project? Consider the new Gatsby starters: [gatsby-starter](https://github.com/reflexjs/gatsby-starter) and [gatsby-starter-typescript](https://github.com/reflexjs/gatsby-starter-typescript)
+
 # reflexjs/gatsby-starter-base
 
 This is the base starter for kicking off your Gatsby project with Reflex. It ships with `MDX` pages and blocks, a blog, navigation menus and `Reflex UI` for theming components.
