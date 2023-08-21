@@ -3,6 +3,160 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.4](https://github.com/reflexjs/reflexjs/compare/gatsby-starter-base@0.7.3...gatsby-starter-base@0.7.4) (2021-03-11)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+## [0.7.3](https://github.com/reflexjs/reflexjs/compare/gatsby-starter-base@0.7.2...gatsby-starter-base@0.7.3) (2021-02-09)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+## [0.7.2](https://github.com/reflexjs/reflexjs/compare/gatsby-starter-base@0.7.1...gatsby-starter-base@0.7.2) (2021-02-09)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+## [0.7.1](https://github.com/reflexjs/reflexjs/compare/gatsby-starter-base@0.7.0...gatsby-starter-base@0.7.1) (2020-12-13)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+# [0.7.0](https://github.com/reflexjs/reflexjs/compare/gatsby-starter-base@0.6.2...gatsby-starter-base@0.7.0) (2020-12-10)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+## [0.6.2](https://github.com/reflexjs/reflexjs/compare/gatsby-starter-base@0.6.1...gatsby-starter-base@0.6.2) (2020-12-03)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+## [0.6.1](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.6.0...gatsby-starter-base@0.6.1) (2020-12-03)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+# [0.6.0](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.5.2...gatsby-starter-base@0.6.0) (2020-11-10)
+
+
+### Features
+
+* **www-next:** add www-next site ([8a230e7](https://github.com/reflexjs/reflex/commit/8a230e7e43d1bb6a25c7332501547ee0f9eea080))
+
+
+
+
+
+## [0.5.2](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.5.1...gatsby-starter-base@0.5.2) (2020-09-21)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+## [0.5.1](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.5.0...gatsby-starter-base@0.5.1) (2020-09-18)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+# [0.5.0](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.4.4...gatsby-starter-base@0.5.0) (2020-09-15)
+
+
+### Features
+
+* add a theme.js file to the base starter ([ccf2fa5](https://github.com/reflexjs/reflex/commit/ccf2fa56466b804e4024d94aa62aeff611633020))
+* **gatsby-starter-base:** add gatsby-theme-post ([ddb64db](https://github.com/reflexjs/reflex/commit/ddb64dbcf79ba10e061a6d980d1f3b717168bf41))
+
+
+
+
+
+## [0.4.4](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.4.3...gatsby-starter-base@0.4.4) (2020-09-09)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+## [0.4.3](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.4.2...gatsby-starter-base@0.4.3) (2020-08-28)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+## [0.4.2](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.4.1...gatsby-starter-base@0.4.2) (2020-08-27)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+## [0.4.1](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.4.0...gatsby-starter-base@0.4.1) (2020-08-24)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+# [0.4.0](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.3.2...gatsby-starter-base@0.4.0) (2020-08-24)
+
+
+### Features
+
+* **starter-base:** add gatsby-plugin-metatags ([5c7ec5e](https://github.com/reflexjs/reflex/commit/5c7ec5e67bf47d44442488aea890c9a14c44f401))
+
+
+
+
+
+## [0.3.2](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.3.1...gatsby-starter-base@0.3.2) (2020-08-17)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
+## [0.3.1](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.3.0...gatsby-starter-base@0.3.1) (2020-08-15)
+
+**Note:** Version bump only for package gatsby-starter-base
+
+
+
+
+
 # [0.3.0](https://github.com/reflexjs/reflex/compare/gatsby-starter-base@0.2.7...gatsby-starter-base@0.3.0) (2020-08-14)
 
 
